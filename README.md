@@ -12,3 +12,6 @@ Kontakt forma trenutno otvara e-mail klijent preko mailto linka. Za direktno sla
 
 ## Slike
 U ovoj verziji su ubačene stvarne fotorealistične AVIF slike prilagođene djelatnosti: luksuzni bazeni, oprema za bazene, elektroliza, pumpe za grijanje i klimatizacija.
+
+## Revizija responzivnosti
+U ovoj verziji je dodatno sređena responsive navigacija za tablet širine, uklonjen problem preklapanja fotografije preko teksta i dodan sigurniji fallback za animacije.
