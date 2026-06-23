@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.aquacentar-zagorje.hr/sitemap.xml
